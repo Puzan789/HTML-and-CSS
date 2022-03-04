@@ -332,9 +332,9 @@ Large: 1.8
 
 /* 0 - 544px */
 @media (max-width: 34rem) {
-  /* .container {
+  .container {
     max-width: 40rem;
-  } */
+  }
   .nav {
     margin-block: 2rem;
   }
